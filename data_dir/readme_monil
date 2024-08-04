@@ -1,0 +1,5 @@
+Project Org: Data dictionary
+
+Root > {Code notebooks, data_dir}
+
+root > data_dir > {raw_data_files, preprocessed_files, output_files}
