@@ -1,1 +1,6 @@
-same seq
+Run sequence
+
+Flatten_table_v3.ipynb : Useful to do general preprocessing
+LSTM_v3_single_store_family.ipynb : To test the model on single store and family
+LSTM_v3_loop_all_family_store.ipynb : To loop through all stores and family
+Combine_results.ipynb : Since we have to break the operations, this will combine all results file
